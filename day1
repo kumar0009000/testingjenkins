@@ -1,0 +1,3 @@
+i created this file for the testing the git 
+ssh-keygen -t rsa -b 4096
+and paste the public key in git setting/ssh
